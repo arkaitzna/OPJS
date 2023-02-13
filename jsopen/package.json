@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Estees mi primer proyecto de js de node con openb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "nodeHola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo.",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "Pol Navarro",
+  "license": "ISC"
+}
