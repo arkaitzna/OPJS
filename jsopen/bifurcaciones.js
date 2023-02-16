@@ -24,7 +24,7 @@ if (efectivo<=saldo){
 //If else + if else
 
 
-
+//Haremos un programa que dandole un valor a nota nos de el aprobado suspenso excelento o notable
     let nota= 2;
 
     if(nota===5){
